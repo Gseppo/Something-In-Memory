@@ -1,0 +1,2 @@
+-- Haskell Moment :freaky.shpm: --
+-- This shall be the main part of Something in memory --
