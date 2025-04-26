@@ -1,2 +1,1 @@
--- Haskell Moment :freaky.shpm: --
--- This shall be the main part of Something in memory --
+-- Something Known: A thing neither forgotten nor remembered a thought constantly lingering in the back to be retrieved when needed sometimes something you'd rather forget--
